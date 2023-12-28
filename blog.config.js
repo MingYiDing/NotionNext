@@ -213,7 +213,7 @@ const BLOG = {
     {
       name: '浮光 (The History)',
       artist: 'Jannik',
-      url: 'https://music.163.com/#/song?id=1394601255',
+      url: 'https://music.163.com/outchain/player?type=2&id=1394601255&auto=1',
       cover:
             'http://p1.music.126.net/c55oo6_xrGMZP8vIrSGTZg==/109951164401545279.jpg?param=130y130'
     }
