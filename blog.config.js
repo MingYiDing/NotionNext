@@ -211,11 +211,11 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'comptine d'un autre été',
-      artist: 'Yann Tiersen',
-      url: 'https://open.spotify.com/track/14rZjW3RioG7WesZhYESso?si=5a0b21233c624e89',
+      name: '浮光 (The History)',
+      artist: 'Jannik',
+      url: 'https://music.163.com/#/song?id=1394601255',
       cover:
-            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyUf5DMI9jtji4m31fgsxWqUMHvMnURbnug&usqp=CAU'
+            'http://p1.music.126.net/c55oo6_xrGMZP8vIrSGTZg==/109951164401545279.jpg?param=130y130'
     },
    
   ],
